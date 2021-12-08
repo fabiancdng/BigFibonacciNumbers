@@ -29,7 +29,7 @@ go get -u github.com/fabiancdng/BigFibonacciNumbers
 
 
 ## Example implementation
-```
+```go
 package main
 
 import (
